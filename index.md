@@ -10,3 +10,7 @@ class TheRunner {
   }
 }
 ```
+## Tasks for this
+- [x] Add this list
+- [ ] Finish the markdown tutorial
+- [ ] Use GitHub for coding.
